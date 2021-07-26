@@ -1,19 +1,21 @@
-# vuejs
+Prapawarin Kramkeaw
+6210450610
 
-## Project setup
+Project Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Run compiles and Hot-reloads
 ```
 npm run serve
 ```
+เมื่อติดตั้งเสร็จแล้วสามารถดูได้ผ่าน http://localhost:xxxx/ หรือผ่าน Network ได้เลย
 
-### Compiles and minifies for production
+เงื่อนไขในการใช้
 ```
-npm run build
+- สามารถกรอกจำนวนรายรับ รายจ่ายได้ โดยเลขที่กรอกต้องมีค่ามากกว่า 0 
+- ต้องใส่จำนวนรายรับ รายจ่ายและวันที่ให้ครบ หากไม่ครบจะไม่สามารถเพิ่มข้อมูลได้
+- บันทึกรายละเอียดเพิ่มเติมสามารถไม่ใส่ได้
+- สามารถแก้ไขข้อมูลได้โดยกดปุ่ม Click to edit
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

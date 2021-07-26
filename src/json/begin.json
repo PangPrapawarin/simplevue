@@ -1,0 +1,15 @@
+[{
+        "dateTime": "2021-07-24",
+        "income": "4000",
+        "expense": "200",
+        "sum": "3800",
+        "note": "Mother give 4000 to me and I eat Shabu 200 baht"
+    },
+    {
+        "dateTime": "2021-07-25",
+        "income": "100",
+        "expense": "50",
+        "sum": "50",
+        "note": "I ordered noodles by Grabfood"
+    }
+]
